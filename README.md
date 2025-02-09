@@ -1,4 +1,4 @@
-# Hi, i'm Aslan 👋
+# **Hi, i'm Aslan** 👋
 
 <!--
 **AslanPiraliev/AslanPiraliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
