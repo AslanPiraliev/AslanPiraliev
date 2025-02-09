@@ -1,16 +1,27 @@
-# **Hi, i'm Aslan** 👋
+# 👋 Hi, I'm Aslan!
 
-<!--
-**AslanPiraliev/AslanPiraliev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
 
-Here are some ideas to get you started:
+- I work without water and fuss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+
+## Programming
+- **Languages:** Python, JavaScript
+- **Markup and styling:** HTML , CSS
+- **Frameworks:** React.js, Django
+- **DevOps:** Git, Docker
+- **Development:** Telegram bots, websites
+
+## 🎓 Training and certifications
+
+- 🏆 I have a certificate from the Frontend Developer course ↓
+- https://tehnikum.school/coding/frontend-developer?ysclid=m6xxcr3wfk678633029
+- I'm finishing my Python Developer course ↓
+- https://tehnikum.school/coding/python-developer
+
+## 📞 Contacts
+
+- 📩 Email: aslanhackpy@gmail.com
+- 🖥 GitHub: https://github.com/AslanPiraliev
+- 🌐 instagram: https://www.instagram.com/aslan_piraliev?igsh=OGo3NjFyeG9xZ3Br
