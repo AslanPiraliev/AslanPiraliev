@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Aslan!
 
-## 💻 Skills
 
 ## Programming
 - **Languages:** Python, JavaScript
